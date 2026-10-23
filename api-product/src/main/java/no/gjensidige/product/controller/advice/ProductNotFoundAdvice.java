@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.ResponseStatus;
 
 /**
- * Respons controller for Product not found exception
+ * Response controller for Product not found exception
  *
  */
 @ControllerAdvice

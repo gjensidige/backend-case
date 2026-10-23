@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * ProductService
  *
- * Class responsible of data manipulation between dto and entity
+ * Class responsible for data manipulation between dto and entity
  *
  *
  */
